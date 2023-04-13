@@ -4,6 +4,7 @@
         "envlogger",
         "levelname",
         "levelno",
+        "Pypi",
         "setenv"
     ],
     "python.testing.pytestArgs": [
