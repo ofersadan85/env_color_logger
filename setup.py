@@ -7,7 +7,7 @@ requirements = Path(__file__).with_name("requirements.txt").read_text().split()
 
 setup(
     name="env_color_logger",
-    version="0.0.2",
+    version="0.0.3",
     packages=["env_color_logger"],
     url="https://github.com/ofersadan85/env_color_logger",
     license="MIT License",
